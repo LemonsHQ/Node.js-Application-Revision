@@ -10,11 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/LemonsHQ/Node.js-Application-Revision.git"
   },
-  "keywords": ["discord","node.js","application","database"],
+  "keywords": [
+    "discord",
+    "node.js",
+    "application",
+    "database"
+  ],
   "author": "LemonsHQ & Contributors",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LemonsHQ/Node.js-Application-Revision/issues"
   },
-  "homepage": "https://github.com/LemonsHQ/Node.js-Application-Revision#readme"
+  "homepage": "https://github.com/LemonsHQ/Node.js-Application-Revision#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }
