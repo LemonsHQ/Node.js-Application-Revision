@@ -1,2 +1,5 @@
 # File and Project Folders to ignore when Commiting to Repo
+# FOLDERS
 /node_modules
+# FILES
+key-encryption.json
