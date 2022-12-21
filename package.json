@@ -1,0 +1,20 @@
+{
+  "name": "node.js-application-revision",
+  "version": "0.0.1",
+  "description": "Create and Send basic Support tickets with discord.js to a remote website database",
+  "main": "boot.js",
+  "scripts": {
+    "test": "echo \"Running Test\" && node ./code/boot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemonsHQ/Node.js-Application-Revision.git"
+  },
+  "keywords": ["discord","node.js","application","database"],
+  "author": "LemonsHQ & Contributors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemonsHQ/Node.js-Application-Revision/issues"
+  },
+  "homepage": "https://github.com/LemonsHQ/Node.js-Application-Revision#readme"
+}
